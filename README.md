@@ -54,11 +54,8 @@ Full-stack software engineer with 2+ years of experience designing and shipping 
 
 ---
 
-## 📊 GitHub Stats
-
-![Srijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SrijanGulati36&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanGulati36&layout=compact&theme=dark&hide_border=true)
+## 🌱 Currently Exploring
+- Next.js · GraphQL · System Design
 
 ---
 
